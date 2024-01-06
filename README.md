@@ -1,8 +1,15 @@
 ### Hi there, it's Shehbaz 👋
 
+Statistics|Machine Learnning|Deep Learning|Python|Javascript
+
 To utilize my knowledge in and ideas in this field of machine learning, statistics, deeplearning, artificial intelligence, NLP, python and javascript toward the smooth functioning of organization. I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelshehbaz)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+
+🌱 I’m currently learning - Advance NLP, Computer Vision 
+
+
+
 
 <!--
 **patelshehbaz/patelshehbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
