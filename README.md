@@ -6,7 +6,7 @@ To utilize my knowledge and ideas in this field of machine learning, statistics,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelshehbaz&hide_progress=true)
 
-🌱 I’m currently learning -Generative AI, Advance NLP.
+🌱 I’m currently learning -Generative AI, MLOPS.
 
 
 
