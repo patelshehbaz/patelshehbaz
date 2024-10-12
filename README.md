@@ -1,8 +1,8 @@
 ### Hi there, it's Shehbaz 👋
 
-Statistics | Machine Learnning | Deep Learning | NLP | Python | Javascript
+DevOps | MLOPS | Generative AI | Statistics | Machine Learnning | Deep Learning | NLP | Python | Javascript
 
-To utilize my knowledge and ideas in this field of machine learning, statistics, deeplearning, artificial intelligence, NLP, python and javascript toward the smooth functioning of organization. I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
+To utilize my knowledge and ideas in this field of DevOps Engineering, MLOPS engineering, machine learning, statistics, deeplearning, artificial intelligence, Generative AI, NLP, python and javascript toward the smooth functioning of organization. I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelshehbaz&hide_progress=true)
 
