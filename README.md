@@ -6,7 +6,7 @@ To utilize my knowledge and ideas in this field of DevOps Engineering, MLOPS eng
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelshehbaz&hide_progress=true)
 
-🌱 I’m currently Preparing for Certifications - Certifiead Kubernetes Associate, AWS DevOps Engineer.
+🌱 I’m currently Preparing for Certifications - Certified Kubernetes Associate, AWS DevOps Engineer.
 
 
 
